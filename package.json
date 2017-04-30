@@ -1,0 +1,22 @@
+{
+  "name": "sockets-canvas",
+  "version": "1.0.0",
+  "description": "Playing with websockets, node, express, and p5.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "node",
+    "express",
+    "p5.js"
+  ],
+  "author": "Molly Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
